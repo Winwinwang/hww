@@ -1,0 +1,149 @@
+html{
+  background-color:#EDF2C5;
+  max-width:1260px;
+  max-height:940px;
+  margin:auto;
+}
+
+body{
+  max-width:940px;
+  margin: auto;
+
+}
+
+header h1{
+  font-family: Arial Black;
+  font-size:44px;
+  color:#889C5B;
+}
+.box-a{
+  float:right;
+  margin-left: 8px;
+  margin-top:50px;
+}
+hr{
+  float:right;
+  width:0px;
+  height:20px;
+  border:0.5px solid #778A50;
+  margin-top: 51px;
+  margin-right: 2px;
+  margin-left: 10px;
+}
+.box-b{
+  float:right;
+  font-family: Arial Black;
+  color:#778A50;
+  font-size: 12px;
+  background-color: #778A50;
+  border:1px solid #75874F;
+  border-radius: 3px;
+  background-color: #EDF2C5;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 9px;
+  padding-right: 9px;
+  margin-top: 50px;
+  margin-bottom: 17px;
+  margin-left: 9px;
+  height:20px;
+}
+.pumpkin{
+  margin-top: 20px;
+  margin-bottom: 32px;
+}
+
+.article-header{
+  background-color: #889C5B;
+  padding-top:16px;
+  padding-bottom:35px;
+  padding-left: 31px;
+  padding-right: 60px;
+  border-radius: 3px;
+}
+
+.article-header li{
+  list-style:none;
+  float:left;
+  font-family: Arial Black;
+  font-size:16px;
+  color:#EDF2C5;
+  padding-right: 30px;
+  padding-left: 9px;
+}
+.article-header1{
+  float:left;
+  font-family: Arial Black;
+  font-size:16px;
+  color:#EDF2C5;
+  background-color: #889C5B;
+  border-radius: 3px;
+  padding-left: 31px;
+  padding-top:16px;
+  padding-right: 325px;
+  padding-bottom:16px;
+  margin-bottom: 17px;
+
+
+}
+.article-header2{
+  float:right;
+  font-family: Arial Black;
+  font-size:16px;
+  color:#EDF2C5;
+  background-color: #889C5B;
+  border-radius: 3px;
+  padding-left: 31px;
+  padding-top:16px;
+  padding-right: 350px;
+  padding-bottom:16px;
+  margin-bottom: 17px;
+}
+.photo{
+  border-radius: 3px;
+  float: left;
+  margin-right: 12px;
+}
+.article{
+  float:right;
+  background-color: #F5F8D9;
+  width: 437px;
+  height: 140px;
+  border-radius: 3px;
+  padding-left: 15px;
+}
+
+.article p{
+  margin: 0px;
+  font-family: Arial;
+  font-size: 12px;
+  color:#898989;
+  padding-top: 10px;
+}
+.art{
+  border-bottom: 1px solid #898989;
+  width: 420px;
+  margin-left: 15px;
+  padding-bottom: 10px;
+  line-height: 18px;
+}
+
+footer{
+  float: left;
+  margin-top: 300px;
+  margin-right: 0px ;
+  margin-left: -150px;
+  background-color: #889C5B;
+  color: #EDF2C5;
+  width: 1260px;
+  height: 60px;
+  margin-top:24px;
+  margin-bottom: 24px;
+
+
+}
+footer p{
+  font-size: 12px;
+  font-family: Arial Black;
+  text-align:center;
+}
